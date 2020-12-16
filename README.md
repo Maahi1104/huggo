@@ -1,0 +1,2 @@
+# huggo
+hugo cms 
